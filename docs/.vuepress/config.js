@@ -9,8 +9,7 @@ module.exports = {
       //浏览器的标签栏的网页图标，第一个'/'会遍历public文件夹的文件
     ]
   ],
-
-  dest: "docs",
+  base: "/reasy-vui-docs/",
 
   //下面涉及到的md文件和其他文件的路径下一步再详细解释
   themeConfig: {
